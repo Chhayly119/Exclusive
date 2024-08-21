@@ -1,0 +1,216 @@
+<!-- PORTFOLIO -->
+
+<li>
+<div class="content">
+    
+    <section class="work">
+     <div class="col-md-10">
+
+          <h2><i class="fa fa-briefcase"></i>My <span>Portfolio</span></h2>
+            
+
+              <!-- filter -->
+                <div class="portfolioFilter text-center">
+                  <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"><i class="fa fa-th"></i>All</div>
+                  <div data-filter=".web" class="cbp-filter-item">Web-Design</div>
+                  <div data-filter=".photoghraphy" class="cbp-filter-item">Photoghraphy</div>
+                  <div data-filter=".illustration" class="cbp-filter-item">Illustration</div>
+                  <div data-filter=".minimalism" class="cbp-filter-item">Minimalism</div>
+                  <div data-filter=".minimalism" class="cbp-filter-item">hi</div>
+              </div>
+              <!-- /filter -->
+      
+              
+                <div id="grid-portfolio" class="cbp">
+               
+                  <!-- portfolio item 1 -->
+                  <div class="cbp-item illustration">
+                    <a title="White Sweater" href="images/portfolio/1.jpg" data-fancybox="gallery" data-caption="White Sweater">
+                    <figure>
+                    <img src="images/portfolio/1.jpg" alt="White Sweater">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>White Sweater</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 1 -->
+
+                  <!-- portfolio item 2 -->
+                  <div class="cbp-item illustration">
+                    <a title="The Future" href="images/portfolio/2.jpg" data-fancybox="gallery" data-caption="The Future">
+                    <figure>
+                    <img src="images/portfolio/2.jpg" alt="The Future">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>The Future</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 2 -->
+
+
+                  <!-- portfolio item 3 -->
+                  <div class="cbp-item photoghraphy">
+                    <a title="Digital" href="https://vimeo.com/50522981" data-fancybox="gallery" data-caption="Digital">
+                    <figure>
+                    <img src="images/portfolio/3.jpg" alt="Digital">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Digital</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 3 -->
+
+                  <!-- portfolio item 4 -->
+                  <div class="cbp-item photoghraphy">
+                    <a title="Green" href="https://www.youtube.com/watch?v=57DGZ9V-7no" data-fancybox="gallery" data-caption="Green">
+                    <figure>
+                    <img src="images/portfolio/4.jpg" alt="Green">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Green</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 4 -->
+
+                  <!-- portfolio item 5 -->
+                  <div class="cbp-item minimalism">
+                    <a title="Journals" href="images/portfolio/5.jpg" data-fancybox="gallery" data-caption="Journals">
+                    <figure>
+                    <img src="images/portfolio/5.jpg" alt="Journals">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Journals</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 5 -->
+
+                  <!-- portfolio item 6 -->
+                  <div class="cbp-item minimalism">
+                    <a title="Jrink" href="images/portfolio/6.jpg" data-fancybox="gallery" data-caption="Jrink">
+                    <figure>
+                    <img src="images/portfolio/6.jpg" alt="Jrink">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Jrink</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 6 -->
+
+                  <!-- portfolio item 7 -->
+                  <div class="cbp-item illustration">
+                    <a title="Jacket" href="images/portfolio/7.jpg" data-fancybox="gallery" data-caption="Jacket">
+                    <figure>
+                    <img src="images/portfolio/7.jpg" alt="Jacket">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Jacket</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 7 -->
+
+                  <!-- portfolio item 8 -->
+                  <div class="cbp-item minimalism">
+                    <a title="Black bottle" href="images/portfolio/8.jpg" data-fancybox="gallery" data-caption="Black bottle">
+                    <figure>
+                    <img src="images/portfolio/8.jpg" alt="Black bottle">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Black bottle</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 8 -->
+
+                  <!-- portfolio item 9 -->
+                  <div class="cbp-item web">
+                    <a title="Vertical" href="images/portfolio/9.jpg" data-fancybox="gallery" data-caption="Vertical">
+                    <figure>
+                    <img src="images/portfolio/9.jpg" alt="Vertical">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Vertical</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 9 -->
+
+                  <!-- portfolio item 10 -->
+                  <div class="cbp-item minimalism">
+                    <a title="Lamp" href="images/portfolio/10.jpg" data-fancybox="gallery" data-caption="Lamp">
+                    <figure>
+                    <img src="images/portfolio/10.jpg" alt="Lamp">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Lamp</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 10 -->
+
+                  <!-- portfolio item 11 -->
+                  <div class="cbp-item illustration">
+                    <a title="Typography" href="images/portfolio/11.jpg" data-fancybox="gallery" data-caption="Typography">
+                    <figure>
+                    <img src="images/portfolio/11.jpg" alt="Typography">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Typography</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 11 -->
+
+                  <!-- portfolio item 12 -->
+                  <div class="cbp-item illustration">
+                    <a title="Shampoo" href="images/portfolio/12.jpg" data-fancybox="gallery" data-caption="Shampoo">
+                    <figure>
+                    <img src="images/portfolio/12.jpg" alt="Shampoo">
+                    <figcaption>
+                    <div class="caption-content">
+                        <p>Shampoo</p>
+                    </div>
+                    </figcaption>
+                    </figure>
+                    </a>
+                  </div>
+                  <!-- /portfolio item 12 -->
+
+               </div>
+     </div>     
+  </section>
+  
+</div>
+</li>
+
+<!-- END PORTFOLIO -->
+
+
